@@ -1,9 +1,5 @@
 # Hi there, I'm Asher 👋
 
-For years, I've honed my skills in precision and problem-solving as a metals fabricator and welder, transforming raw materials into functional structures. Now, I'm channeling that same builder's mindset and discipline into a new craft: **software development**.
-
-My journey into tech is driven by a deep-seated curiosity about how things work, a passion that also led me to study logic and philosophy. I thrive on deconstructing complex systems—whether it's a mechanical blueprint, a line of code, or a logical argument—to understand them from first principles.
-
 ---
 
 * 🌱 I’m currently learning C, Python, SQL, JavaScript.
