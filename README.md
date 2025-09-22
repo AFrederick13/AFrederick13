@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Asher 👋
 
-<!--
-**AFrederick13/AFrederick13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For years, I've honed my skills in precision and problem-solving as a metals fabricator and welder, transforming raw materials into functional structures. Now, I'm channeling that same builder's mindset and discipline into a new craft: **software development**.
 
-Here are some ideas to get you started:
+My journey into tech is driven by a deep-seated curiosity about how things work, a passion that also led me to study logic and philosophy. I thrive on deconstructing complex systems—whether it's a mechanical blueprint, a line of code, or a logical argument—to understand them from first principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+* 🌱 I’m currently learning C, Python, SQL, JavaScript.
+* 🔭 I’m currently working on Harvard's CS50 course.
+* 🤔 I’m looking for help with nothing right now!
+* 💬 Ask me about philosophy, religion, or my journey into tech!
+* 📫 How to reach me: https://www.linkedin.com/in/asher-frederick/
+* ⚡ Fun fact: I'm an avid Chess player.
+
+---
+
+### 🛠️ My Tech Stack & Tools
+
+Here are some of the technologies I'm working with:
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AFrederick13&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFrederick13&layout=compact&theme=radical)
