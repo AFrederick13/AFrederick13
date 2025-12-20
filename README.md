@@ -4,7 +4,6 @@
 
 * 🌱 I’m currently learning C, Python, SQL, JavaScript.
 * 🔭 I’m currently working on Harvard's CS50 course, and my own website (see below).
-* 🤔 I’m looking for help with my website "Decoded Codex"  https://www.decodedcodex.com/
 * 💬 Ask me about philosophy or religion!
 * 📫 How to reach me: https://www.linkedin.com/in/asher-frederick/
 * ⚡ Fun fact: I'm an avid Chess player.
