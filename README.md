@@ -2,7 +2,7 @@
 
 ---
 
-* 🔭 I’m currently working on my own website (https://www.decodedcodex.com/), and a word parsing program (wordparse).
+* 🔭 I’m currently working on my own website (https://www.decodedcodex.com/), a word parsing program (wordparse), and Harvards web programming course.
 * 💬 Ask me about philosophy or religion!
 * 📫 How to reach me: https://www.linkedin.com/in/asher-frederick/
 * ⚡ Fun fact: I'm an avid Chess player.
