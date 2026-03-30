@@ -23,4 +23,5 @@ Here are some of the technologies I'm working with:
 * Git
 * Eleventy
 * Flask
+* Django
 * A.I.
