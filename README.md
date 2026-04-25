@@ -19,6 +19,7 @@ Here are some of the technologies I'm working with:
 * JavaScript
 * Python
 * C
+* C#
 * SQL
 * Git
 * Eleventy
