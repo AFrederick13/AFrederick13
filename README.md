@@ -11,8 +11,8 @@
 
 A few live websites I've built:
 
-* www.decodedcodex.com
-* https://afrederick13.github.io/mock-website/
+* www.decodedcodex.com (Philosophy and Comparative Religion Research Website)
+* https://afrederick13.github.io/mock-website/  (Sample Business Website)
 
 ---
 
