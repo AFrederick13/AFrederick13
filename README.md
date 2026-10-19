@@ -2,7 +2,7 @@
 
 ---
 
-* 🔭 I’m currently working on some of the projects in my pinned repo's.
+* 🔭 I’m currently working on some of the projects in my pinned repos.
 * 💬 Talk to me about technology, philosophy or religion!
 * 📫 How to reach me: https://www.linkedin.com/in/asher-frederick/
 * ⚡ Fun fact: I'm an avid Chess player.
