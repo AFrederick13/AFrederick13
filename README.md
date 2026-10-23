@@ -13,7 +13,7 @@ A few live websites I've built:
 
 * www.decodedcodex.com (Philosophy and Comparative Religion Research Website)
 * https://afrederick13.github.io/mock-website/  (Sample Business Website)
-* https://afrederick13.github.io/wausau-chess-club/ (Wausau Chess Club Website)
+* https://www.wausauchess.org (Wausau Chess Club Website)
 
 ---
 
